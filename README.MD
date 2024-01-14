@@ -32,3 +32,6 @@ Once you have the prerequisites and dependencies installed, you can run the appl
 
 ```bash
 streamlit run app.py
+
+
+[//]: # (xlfi uejk bdjr hsht)
